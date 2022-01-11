@@ -1,3 +1,6 @@
 [submodule "2.3.10_esp32_light_server"]
 	path = 2.3.10_esp32_light_server
 	url = git@github.com:iplion/2.3.10_esp32_light_server.git
+[submodule "2.3.10_lib"]
+	path = 2.3.10_lib
+	url = git@github.com:iplion/2.3.10_lib.git
