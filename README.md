@@ -4,3 +4,4 @@ For first: Sorry for my Inglish);
 2.3.10_stm32_bootloader - simple bootloader. It can download .hex files to update stm32 board firmware;   
 2.3.10_stm32_light_server - stm32f103rb light server with UART communication;   
 2.3.10_lib - HTML pages for web-server, hex-files decode functions, e.t.c.
+Video: https://youtu.be/eF_dbYxIFho
